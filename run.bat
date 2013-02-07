@@ -1,0 +1,1 @@
+"C:\Users\DG83\Documents\Projects\MOAI\moai-sdk\bin\win32\moai.exe" "config.lua" "main.lua"
